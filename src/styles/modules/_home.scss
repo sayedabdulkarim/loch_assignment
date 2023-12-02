@@ -40,13 +40,39 @@
                     line-height: 120%; /* 19.2px */
                 }
             }
+
+            .right_section {
+                .portfolio_slide_container {
+
+                    .swiper-wrapper {
+
+                        .portfolio_slide_item {
+                            border-radius: 8.4px;
+                            background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 27.5%, rgba(22, 93, 255, 0.16) 157.71%), #FFF;
+                            box-shadow: 0px 0.7px 0.7px 0px rgba(0, 0, 0, 0.04), 0px 2.8px 7px 0px rgba(0, 0, 0, 0.04);
+                            padding: 15px;
+                            margin: 0!important;
+
+                            svg {}
+
+                            p {}
+
+                            span {}
+
+                        }
+
+                    }
+
+                }
+            }
+
         }
 
     }
 
     .right_section {
         width: 45%;
-        border: 1px solid blue;
+        // border: 1px solid blue;
     }
 
 }
